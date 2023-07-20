@@ -1,0 +1,28 @@
+.class{
+    font-size: 18px;
+    margin-left: 20px;margin-right: 1000px;
+    font-weight: bolder;
+    font-style: calc();
+}
+.second{
+        font-size: 20px;
+        font-family: 'Trebuchet MS';
+        font-weight: bolder;
+        margin-left: 900px;margin-right: 750px;
+        margin-top: -500px;margin-bottom: 2px;
+        background-color: bisque;
+}
+.third{
+        font-size: 19px;
+    font-style: oblique;
+    font-weight: bold;
+    margin-left: 1154px;margin-right: 550px;
+    margin-top: -306px;margin-bottom: 468px;
+
+    background-color:antiquewhite;
+}
+.title{
+        font-size: 25px;
+        font-weight: bolder;
+         background-color: cadetblue;
+      }

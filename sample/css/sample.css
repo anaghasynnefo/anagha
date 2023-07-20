@@ -1,0 +1,21 @@
+p{
+    margin-top: 60px;margin-bottom: 60px;
+        margin-left: 60px;margin-right: 60;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        padding-left: 60px;
+        font-family: 'Kablammo', cursive;
+        
+        padding-right: 60p}
+    
+    body
+    {
+    background-image: url('img4.webp');
+    background-repeat: no-repeat;
+    background-size:cover   ;
+    
+    }
+    
+    img{
+    border-radius:50%; 
+    width:500px;}
